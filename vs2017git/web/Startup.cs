@@ -9,7 +9,8 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace web
 {
-    //本地dev上面的修改
+
+    //以这个为准
     public class Startup
     {
         // This method gets called by the runtime. Use this method to add services to the container.
